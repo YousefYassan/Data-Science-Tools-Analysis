@@ -34,14 +34,7 @@ The visualization component of this project utilizes a combination of Python lib
 
   
 
-## Installation
 
-Clone the repository and install the required dependencies:
-
-```bash
-git clone https://github.com/yourusername/datascience-tool-project.git
-cd datascience-tool-project
-pip install -r requirements.txt
 
 
 
